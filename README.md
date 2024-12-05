@@ -1,2 +1,2 @@
 # The-game
-MY firrt progect
+MY first
